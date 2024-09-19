@@ -1,6 +1,8 @@
-# AWS EKS EBS CSI Terraform module
-A Terraform module which deploy AWS EBS CSI on your EKS cluster.
-[![blackbird-logo](https://raw.githubusercontent.com/blackbird-cloud/terraform-module-template/main/.config/logo_simple.png)](https://www.blackbird.cloud)
+<!-- BEGIN_TF_DOCS -->
+# Terraform Aws Eks Ebs Csi Module
+Terraform module to deploy EBS CSI driver on EKS
+
+[![blackbird-logo](https://raw.githubusercontent.com/blackbird-cloud/terraform-module-template/main/.config/logo_simple.png)](https://blackbird.cloud)
 
 ## Example
 ```hcl
@@ -83,4 +85,5 @@ Checkout our other :point\_right: [terraform modules](https://registry.terraform
 
 ## Copyright
 
-Copyright © 2017-2023 [Blackbird Cloud](https://www.blackbird.cloud)
+Copyright © 2017-2024 [Blackbird Cloud](https://blackbird.cloud)
+<!-- END_TF_DOCS -->
