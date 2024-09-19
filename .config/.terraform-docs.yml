@@ -14,8 +14,8 @@ sections:
     - modules
 
 content: |-
-  # AWS EKS EBS CSI Terraform module
-  A Terraform module which deploy AWS EBS CSI on your EKS cluster.
+  {{ include "./.config/title.md"}}
+
   {{ .Header }}
 
   ## Example
